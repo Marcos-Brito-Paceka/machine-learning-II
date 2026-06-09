@@ -31,3 +31,10 @@ Thumbs.db
 # Variáveis de ambiente
 .env
 .env.*
+
+## Diretorios
+fase1/
+results/
+runs/
+
+yolov8x.pt
